@@ -47,7 +47,7 @@ I specialize in **React.js** and love creating interactive UI experiences while 
 
 ---
 
-## 🌌 3D Contribution Graph  
+## 🌌 Contribution Graph  
 <div align="center">
 
 ![3D Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FakharCh24&theme=github_dark)
